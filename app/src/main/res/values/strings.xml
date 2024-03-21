@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">aplicativoEntrega</string>
+    <string name="inform">INGRESE LA INFORMACIÓN QUE SEA NECESARIA</string>
+    <string name="button">BUSCAR LIBRO</string>
+    <string name="autor">AUTOR</string>
+    <string name="género">GÉNERO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="año">AÑO</string>
+    <string name="resultado">RESULTADO DE BUSQUEDA</string>
+    <string name="resultado1">RESULTADO</string>
+
+
+</resources>
